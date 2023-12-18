@@ -1,6 +1,9 @@
 # AMBER: An Automated Multi-dimensional Benchmark for Multi-modal  Hallucination Evaluation
 <div align="center">
-Junyang Wang*<sup>1</sup>, Yuhang Wang*<sup>1</sup>, Guohai Xu<sup>2</sup>, Jing Zhang<sup>1</sup>, Yukai Gu<sup>1</sup>, Haitao jia<sup>1</sup>, Jiaqi Wang<sup>1</sup>, Haiyang Xu<sup>2</sup>, Ming Yan<sup>2</sup>, Ji Zhang<sup>2</sup>, Jitao Sang<sup>1</sup>
+Junyang Wang*<sup>1</sup>, Yuhang Wang*<sup>1</sup>, Guohai Xu<sup>2</sup>, Jing Zhang<sup>1</sup>, Yukai Gu<sup>1</sup>, Haitao jia<sup>1</sup>, Jiaqi Wang<sup>1</sup>
+</div>
+<div align="center">
+Haiyang Xu<sup>2</sup>, Ming Yan<sup>2</sup>, Ji Zhang<sup>2</sup>, Jitao Sang<sup>1</sup>
 </div>
 <div align="center">
 <sup>1</sup>Beijing Jiaotong University
