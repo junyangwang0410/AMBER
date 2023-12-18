@@ -1,0 +1,851 @@
+{
+    "sky": [],
+    "grass": [
+        "ground"
+    ],
+    "wall": [
+        "building"
+    ],
+    "ground": [
+        "floor"
+    ],
+    "road": [
+        "path",
+        "street",
+        "ground"
+    ],
+    "person": [
+        "people",
+        "individual",
+        "man",
+        "woman",
+        "boy",
+        "girl"
+    ],
+    "cloud": [],
+    "forest": [
+        "tree",
+        "leave",
+        "bush"
+    ],
+    "table": [
+        "desk"
+    ],
+    "tree": [
+        "forest",
+        "leave",
+        "bush"
+    ],
+    "floor": [
+        "ground"
+    ],
+    "sea": [
+        "water",
+        "lake"
+    ],
+    "hat": [],
+    "dog": [],
+    "cat": [],
+    "mountain": [
+        "hill",
+        "rock",
+        "stone",
+        "reef"
+    ],
+    "beach": [
+        "sand",
+        "shore",
+        "waterfont",
+        "ground",
+        "desert"
+    ],
+    "waterfront": [
+        "shore"
+    ],
+    "woman": [
+        "person",
+        "people",
+        "individual",
+        "girl"
+    ],
+    "car": [
+        "window",
+        "door",
+        "tire",
+        "vehicle",
+        "light",
+        "mirror",
+        "plate"
+    ],
+    "house": [
+        "building"
+    ],
+    "plate": [],
+    "bicycle": [
+        "bike",
+        "tire",
+        "saddle"
+    ],
+    "man": [
+        "person",
+        "people",
+        "individual",
+        "boy"
+    ],
+    "bench": [
+        "chair",
+        "armrest"
+    ],
+    "glove": [],
+    "toy": [],
+    "fence": [
+        "bail",
+        "barrier",
+        "rail",
+        "bar",
+        "railing"
+    ],
+    "laptop": [
+        "screen",
+        "keyboard",
+        "computer"
+    ],
+    "toilet": [
+        "closestool",
+        "pan",
+        "stool",
+        "bowl",
+        "tank"
+    ],
+    "snow": [
+        "ground"
+    ],
+    "surfboard": [
+        "board",
+        "spray"
+    ],
+    "keyboard": [
+        "computer"
+    ],
+    "bird": [
+        "bill"
+    ],
+    "bus": [
+        "car",
+        "truck",
+        "window",
+        "door",
+        "tire",
+        "vehicle",
+        "light",
+        "mirror",
+        "plate"
+    ],
+    "sign": [
+        "signal",
+        "pole",
+        "street",
+        "road",
+        "path"
+    ],
+    "chair": [
+        "bench"
+    ],
+    "cable": [
+        "line",
+        "cord"
+    ],
+    "cabinet": [],
+    "cup": [],
+    "glass": [],
+    "frisbee": [],
+    "bear": [],
+    "motorbike": [
+        "motorcycle",
+        "bike",
+        "tire",
+        "vehicle",
+        "saddle",
+        "mirror",
+        "plate"
+    ],
+    "computer": [],
+    "tap": [
+        "stopcock",
+        "faucet"
+    ],
+    "bed": [
+        "sheet",
+        "mattress",
+        "cushion"
+    ],
+    "train": [
+        "track",
+        "window",
+        "vehicle",
+        "car",
+        "container",
+        "light"
+    ],
+    "hydrant": [
+        "street",
+        "road",
+        "ground"
+    ],
+    "horse": [],
+    "phone": [
+        "telephone",
+        "screen"
+    ],
+    "umbrella": [],
+    "flower": [],
+    "truck": [
+        "car",
+        "window",
+        "door",
+        "tire",
+        "vehicle",
+        "light",
+        "mirror",
+        "plate",
+        "bed"
+    ],
+    "door": [],
+    "cow": [],
+    "banana": [],
+    "plane": [],
+    "snowboard": [
+        "ski"
+    ],
+    "zebra": [],
+    "sheep": [],
+    "mouse": [
+        "computer"
+    ],
+    "pillow": [],
+    "lake": [
+        "water",
+        "sea",
+        "river"
+    ],
+    "streetlamp": [
+        "light",
+        "lamp"
+    ],
+    "sink": [
+        "basin"
+    ],
+    "skate": [
+        "board"
+    ],
+    "carpet": [
+        "rug",
+        "blanket",
+        "floor"
+    ],
+    "ship": [
+        "boat",
+        "vessel",
+        "sailing",
+        "vehicle"
+    ],
+    "kite": [],
+    "apple": [],
+    "quilt": [],
+    "rail": [
+        "track"
+    ],
+    "lounge": [
+        "chair",
+        "bench",
+        "armrest"
+    ],
+    "mirror": [
+        "glass"
+    ],
+    "river": [
+        "lake",
+        "water"
+    ],
+    "sofa": [
+        "couch",
+        "chair",
+        "bench"
+    ],
+    "giraffe": [],
+    "window": [
+        "glass"
+    ],
+    "ball": [],
+    "sun": [],
+    "curtain": [],
+    "lamp": [
+        "light"
+    ],
+    "socket": [
+        "plug"
+    ],
+    "book": [
+        "paper"
+    ],
+    "rope": [
+        "cord",
+        "string"
+    ],
+    "backpack": [
+        "bag",
+        "pack"
+    ],
+    "wire": [
+        "cable",
+        "cord"
+    ],
+    "bin": [
+        "can",
+        "bucket"
+    ],
+    "tissue": [
+        "napkin",
+        "towel",
+        "paper"
+    ],
+    "vase": [],
+    "sheet": [
+        "bedsheet",
+        "cloth"
+    ],
+    "orange": [
+        "tangerine"
+    ],
+    "drawing": [
+        "painting"
+    ],
+    "wineglass": [
+        "cup",
+        "glass",
+        "cann",
+        "goblet"
+    ],
+    "tablecloth": [
+        "napery",
+        "table",
+        "cloth"
+    ],
+    "tussock": [
+        "grass"
+    ],
+    "doll": [
+        "toy"
+    ],
+    "line": [
+        "string",
+        "cord"
+    ],
+    "holder": [],
+    "mousepad": [
+        "pad"
+    ],
+    "light": [],
+    "pole": [],
+    "cone": [],
+    "building": [],
+    "manhole": [],
+    "bowl": [],
+    "alarm": [
+        "clock"
+    ],
+    "court": [],
+    "rock": [
+        "stone"
+    ],
+    "cake": [],
+    "paddle": [
+        "oar"
+    ],
+    "fork": [],
+    "elephant": [],
+    "necklace": [
+        "necklet",
+        "collar"
+    ],
+    "coffee": [
+        "cafe",
+        "drink"
+    ],
+    "pizza": [
+        "cheese",
+        "bread"
+    ],
+    "knife": [],
+    "sausage": [],
+    "child": [
+        "kid",
+        "person",
+        "people",
+        "boy",
+        "girl",
+        "man",
+        "woman",
+        "individual"
+    ],
+    "bread": [],
+    "shoe": [],
+    "signal": [
+        "light"
+    ],
+    "sound": [],
+    "tie": [
+        "necktie",
+        "collar"
+    ],
+    "luggage": [
+        "box",
+        "baggage"
+    ],
+    "microwave": [
+        "oven",
+        "container",
+        "door",
+        "bar"
+    ],
+    "scoon": [],
+    "football": [
+        "soccer",
+        "ball"
+    ],
+    "pipe": [
+        "hose"
+    ],
+    "bat": [],
+    "bath": [
+        "bathtub",
+        "tub"
+    ],
+    "stone": [
+        "rock"
+    ],
+    "electrombile": [
+        "bike",
+        "motorbike",
+        "motorcycle",
+        "vehicle",
+        "mirror"
+    ],
+    "cloth": [],
+    "sticker": [
+        "note"
+    ],
+    "racket": [
+        "bat",
+        "string"
+    ],
+    "paper": [],
+    "kettle": [
+        "bottle"
+    ],
+    "parasail": [
+        "paraglider",
+        "kite"
+    ],
+    "toothbrush": [],
+    "pigeon": [
+        "dove",
+        "bird"
+    ],
+    "wine": [
+        "drink",
+        "alcohol"
+    ],
+    "boy": [
+        "person",
+        "people",
+        "individual",
+        "man",
+        "child"
+    ],
+    "girl": [
+        "person",
+        "people",
+        "individual",
+        "woman",
+        "child"
+    ],
+    "watch": [],
+    "doughnut": [],
+    "sunflower": [
+        "flower"
+    ],
+    "scarf": [
+        "warp",
+        "muffler"
+    ],
+    "carrot": [],
+    "broccoli": [],
+    "leave": [],
+    "bridge": [],
+    "urinal": [
+        "pissoir",
+        "toilet"
+    ],
+    "television": [
+        "TV",
+        "screen"
+    ],
+    "bookshelf": [
+        "shelf"
+    ],
+    "bag": [],
+    "spray": [
+        "bottle"
+    ],
+    "bucket": [],
+    "board": [
+        "sign"
+    ],
+    "baggage": [
+        "bag"
+    ],
+    "antelope": [],
+    "notebook": [
+        "paper",
+        "note"
+    ],
+    "tire": [],
+    "lock": [],
+    "telephone": [
+        "phone",
+        "screen"
+    ],
+    "cushion": [],
+    "extinguisher": [],
+    "handrail": [
+        "rail",
+        "armrest"
+    ],
+    "brush": [],
+    "stair": [
+        "staircase"
+    ],
+    "kiwifruit": [
+        "kiwi"
+    ],
+    "peach": [],
+    "strawberry": [],
+    "toothpaste": [],
+    "bracelet": [],
+    "flag": [],
+    "box": [
+        "container"
+    ],
+    "tank": [],
+    "pulp": [
+        "board",
+        "surfboard"
+    ],
+    "grill": [
+        "barbecue",
+        "rack"
+    ],
+    "charcoal": [],
+    "doghole": [
+        "kennel",
+        "bed"
+    ],
+    "sauce": [],
+    "duck": [
+        "bird",
+        "bill"
+    ],
+    "pad": [
+        "screen"
+    ],
+    "note": [
+        "sticker"
+    ],
+    "tape": [],
+    "drain": [],
+    "bottle": [],
+    "sunglasses": [],
+    "camera": [],
+    "refrigerator": [
+        "fridge",
+        "door"
+    ],
+    "tomato": [],
+    "support": [
+        "holder"
+    ],
+    "saddle": [],
+    "switch": [],
+    "baconic": [],
+    "cheese": [],
+    "guardrail": [
+        "rail",
+        "bar",
+        "railing",
+        "fence",
+        "barrier"
+    ],
+    "snack": [],
+    "pot": [
+        "pan"
+    ],
+    "cooktop": [
+        "hearth"
+    ],
+    "island": [],
+    "sailing": [
+        "boat",
+        "ship",
+        "vessel",
+        "vehicle"
+    ],
+    "pier": [],
+    "flowerpot": [
+        "pot"
+    ],
+    "reef": [
+        "rock",
+        "riff"
+    ],
+    "sand": [
+        "desert",
+        "ground"
+    ],
+    "water": [],
+    "can": [],
+    "opener": [],
+    "monitor": [
+        "screen",
+        "computer"
+    ],
+    "clock": [],
+    "file": [],
+    "monkey": [],
+    "controller": [],
+    "ebook": [
+        "e-book",
+        "book"
+    ],
+    "seegull": [
+        "bird"
+    ],
+    "yacht": [
+        "ship",
+        "boat",
+        "vessel",
+        "sailing",
+        "vehicle"
+    ],
+    "towel": [
+        "napkin"
+    ],
+    "napkin": [
+        "towel"
+    ],
+    "cherry": [],
+    "basin": [
+        "pot",
+        "tub"
+    ],
+    "rice": [],
+    "cabbage": [],
+    "tangerine": [
+        "orange"
+    ],
+    "pear": [],
+    "bush": [
+        "grove",
+        "tree",
+        "forest"
+    ],
+    "money": [
+        "cash",
+        "bill"
+    ],
+    "airport": [],
+    "hot": [],
+    "blanket": [
+        "rug",
+        "carpet",
+        "cushion",
+        "mat"
+    ],
+    "fish": [],
+    "sanitizer": [
+        "soap",
+        "bottle"
+    ],
+    "ceiling": [],
+    "sled": [],
+    "rabbit": [],
+    "cathole": [
+        "kennel"
+    ],
+    "slippers": [],
+    "dresser": [],
+    "fishnet": [
+        "net",
+        "rpoe"
+    ],
+    "pen": [],
+    "drink": [],
+    "milk": [],
+    "stage": [],
+    "dustbin": [
+        "bin"
+    ],
+    "leopard": [],
+    "squirrel": [],
+    "insect": [
+        "worm"
+    ],
+    "buoy": [],
+    "toothpick": [],
+    "earphone": [],
+    "goal": [],
+    "butterfly": [],
+    "eagle": [
+        "bird"
+    ],
+    "air-conditioning": [],
+    "shell": [],
+    "crocodile": [],
+    "candle": [],
+    "steak": [],
+    "tent": [],
+    "rainbow": [],
+    "cage": [],
+    "railing": [],
+    "trough": [],
+    "cooker": [
+        "range"
+    ],
+    "lion": [],
+    "charger": [],
+    "dryer": [],
+    "hanger": [],
+    "chopsticks": [],
+    "shampoo": [
+        "bottle"
+    ],
+    "glacier": [
+        "ice"
+    ],
+    "newspaper": [],
+    "basket": [],
+    "balloon": [
+        "ball"
+    ],
+    "volleyball": [
+        "ball"
+    ],
+    "net": [
+        "rope"
+    ],
+    "ribbon": [],
+    "basketball": [
+        "ball"
+    ],
+    "mattress": [],
+    "blueberry": [],
+    "egg": [],
+    "lemon": [],
+    "melon": [],
+    "track": [],
+    "potato": [],
+    "goose": [],
+    "showerhead": [],
+    "watermelon": [],
+    "pineapple": [],
+    "guitar": [],
+    "tennis": [],
+    "juice": [],
+    "juicer": [],
+    "card": [],
+    "ring": [],
+    "crutch": [
+        "pole",
+        "support"
+    ],
+    "desert": [
+        "sand",
+        "ground",
+        "beach"
+    ],
+    "deer": [],
+    "cream": [
+        "ice"
+    ],
+    "shrimp": [],
+    "cowpea": [],
+    "ice": [],
+    "tiger": [],
+    "pig": [],
+    "cola": [],
+    "grape": [],
+    "chicken": [
+        "bird",
+        "bill"
+    ],
+    "rack": [
+        "shelf"
+    ],
+    "magazine": [
+        "book"
+    ],
+    "meat": [],
+    "telescope": [],
+    "grapefruit": [],
+    "pinwheel": [
+        "windmill"
+    ],
+    "baseball": [
+        "ball"
+    ],
+    "ginger": [],
+    "camel": [],
+    "snowman": [],
+    "shovel": [
+        "spade",
+        "scoop"
+    ],
+    "showerpuff": [
+        "ball",
+        "sponge"
+    ],
+    "earing": [
+        "earrings"
+    ],
+    "tinfoil": [
+        "sliver"
+    ],
+    "mushroom": [],
+    "tortoise": [
+        "turtle"
+    ],
+    "beer": [
+        "drink"
+    ],
+    "microphone": [],
+    "piano": [],
+    "rod": [
+        "pole"
+    ],
+    "fox": [],
+    "coconut": [],
+    "rugby": [
+        "football"
+    ],
+    "core": [
+        "kernel"
+    ],
+    "panda": [
+        "bear"
+    ],
+    "bamboo": [],
+    "star": [],
+    "moon": [],
+    "bar": [],
+    "toaster": []
+}
