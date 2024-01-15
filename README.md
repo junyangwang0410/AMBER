@@ -9,7 +9,7 @@ Haiyang Xu<sup>2</sup>, Ming Yan<sup>2</sup>, Ji Zhang<sup>2</sup>, Jitao Sang<s
 <sup>1</sup>Beijing Jiaotong University
 </div>
 <div align="center">
-<sup>2</sup>Damo Academy, Alibaba Group
+<sup>2</sup>Alibaba Group
 </div>
 <div align="center">
 *Equal Contribution
