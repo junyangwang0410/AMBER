@@ -73,6 +73,7 @@ For generative task (1 <= id <= 1004), the format of responses is:
 	{
 		"id": 1004,
 		"response": "The description of AMBER_1004.jpg from MLLM."
+	}
 ]
 ```
 
@@ -89,6 +90,7 @@ For discriminative task (id >= 1005), the format of responses is:
 	{
 		"id": 15220,
 		"response": "Yes" or "No"
+	}
 ]
 ```
 
