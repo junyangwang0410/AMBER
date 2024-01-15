@@ -6,10 +6,7 @@ Junyang Wang*<sup>1</sup>, Yuhang Wang*<sup>1</sup>, Guohai Xu<sup>2</sup>, Jing
 Haiyang Xu<sup>2</sup>, Ming Yan<sup>2</sup>, Ji Zhang<sup>2</sup>, Jitao Sang<sup>1</sup>
 </div>
 <div align="center">
-<sup>1</sup>Beijing Jiaotong University
-</div>
-<div align="center">
-<sup>2</sup>Alibaba Group
+<sup>1</sup>Beijing Jiaotong University    <sup>2</sup>Alibaba Group
 </div>
 <div align="center">
 *Equal Contribution
