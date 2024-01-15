@@ -16,7 +16,7 @@ Haiyang Xu<sup>2</sup>, Ming Yan<sup>2</sup>, Ji Zhang<sup>2</sup>, Jitao Sang<s
 </div>
 
 ## Introduction
-*AMBER* is **A**n LLM-free **M**ulti-dimensional **Be**nchma**r**k) for MLLMs hallucination evaluation, which can be used to evaluate both generative task and discriminative task including existence, attribute and relation hallucination.
+*AMBER* is **A**n LLM-free **M**ulti-dimensional **Be**nchma**r**k for MLLMs hallucination evaluation, which can be used to evaluate both generative task and discriminative task including existence, attribute and relation hallucination.
 ![](README_File/comparison.jpg?v=1&type=image)
 *AMBER* has a fine-grained annotation and automated evaluation pipeline.
 ![](README_File/intro.jpg?v=1&type=image)
